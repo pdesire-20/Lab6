@@ -1,3 +1,9 @@
-body {
+td, th {
+	border: 5px solid;
+  }
+    body {
   background-color: blue;
-} 
+}
+
+h1 {
+  background-color: green;
