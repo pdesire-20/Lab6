@@ -1,7 +1,12 @@
 
 td, th {
-	border: 1px solid;
+	border: 5px solid;
   }
     body {
   background-color: lightblue;
 }
+
+h1 {
+  background-color: green;
+}
+
