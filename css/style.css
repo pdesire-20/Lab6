@@ -17,17 +17,11 @@ h1 {
 }
 
 
-#planets {
+ img {
 width="60" height="40"
 }
 
 table {
   width: 80%;
 }
-.planet{
-  background-color: gray;
-  color: white;
-  border: 1px black;
-  margin: 15px;
-  padding: 20px;
-}
+
