@@ -1,5 +1,7 @@
 td, th {
-	border: 5px solid;
+	border: 10px solid;
+	text-align: center;
+	padding: 30px;
   }
     body {
   background-color: orange;
@@ -10,4 +12,7 @@ h1 {
 
 img {
 width="60" height="40"
+}
+table {
+  width: 80%;
 }
